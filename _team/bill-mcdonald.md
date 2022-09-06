@@ -1,12 +1,10 @@
 ---
-title: "Bill McDonald"
+title: "Mohammed Ali Abed | محمدعلی عابد"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
-linkedinurl: ""
+jobtitle: "Finance Director"
+linkedinurl: "www.linkedin.com/in/mohammedabed209"
 weight: 7
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Salaam -o- Durood everyone! I am Mohammed, a senior studying Applied Mathematics, Economics, and Computer Science. My hobbies include reading, doing math problems, and hiking. Feel free to connect with me on linkedin and reach out to me for any cause. Excited to work with everyone!
