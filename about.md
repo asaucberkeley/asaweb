@@ -15,7 +15,7 @@ crimen habet Priamum nec.
 
 Financial accounting and financial reporting are often used as synonyms.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
+1. tst
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
 3. According to the European Accounting Association:
 
