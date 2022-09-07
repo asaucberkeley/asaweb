@@ -5,7 +5,7 @@ image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
 jobtitle: "Director of Ethics & Wellness"
 linkedinurl: ""
 promoted: true
-weight: 3
+weight: 8
 ---
 
 BIO
