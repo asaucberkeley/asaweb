@@ -8,5 +8,5 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# ASA - Afghan Student Association
-Join the Afghan students of UC Berkeley to discover the culture, heritage, and lifestyle of all Afghan Peoples.
+# Afghan Student Association
+Welcome to UC Berkeley's Afghan Student Association, a plane to learn about the culture, heritage, and traditions of Afghan peoples.
