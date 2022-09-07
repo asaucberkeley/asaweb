@@ -4,6 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Finance Director"
 linkedinurl: "www.linkedin.com/in/mohammedabed209"
+promoted: true
 weight: 7
 ---
 
