@@ -5,7 +5,7 @@ image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
 jobtitle: "Director of Communications"
 linkedinurl: ""
 promoted: true
-weight: 3
+weight: 7
 ---
 
 BIO
