@@ -5,7 +5,7 @@ image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Outreach & External Officer"
 linkedinurl: "www.linkedin.com"
 promoted: true
-weight: 7
+weight: 4
 ---
 
 BIO INSERTED
