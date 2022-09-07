@@ -1,5 +1,5 @@
 ---
-title: "Sofia Schnurer | سوفیا شنورر"
+title: "Sofia Schnurer | سوفیا شنورر | she/her"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sage-kirk-485982-unsplash.jpg"
 jobtitle: "Vice President"
