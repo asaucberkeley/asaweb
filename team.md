@@ -8,5 +8,4 @@ intro_image_hide_on_mobile: false
 ---
 
 # Meet The Team
-
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+ASA Board consists of a group of diverse and intelligent individuals. Not only do their backgrounds vary, but their majors encapsulate nearly every undergraduate college on campus. Click on each person's bio to learn more about them!
