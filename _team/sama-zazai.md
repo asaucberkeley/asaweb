@@ -1,7 +1,7 @@
 ---
 title: "Sama Zazai | سما ځاځي"
 date: 2018-11-19T10:47:58+10:00
-image: ""
+image: "images/team/sama.jpg"
 jobtitle: "President"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
