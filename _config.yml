@@ -4,11 +4,11 @@ title: 'ASA'
 
 logo:
   mobile: "images/logo/asa.png"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  mobile_height: "50px"
+  mobile_width: "50px"
   desktop: "images/logo/asa.png"
-  desktop_height: "100px"
-  desktop_width: "100px"
+  desktop_height: "125px"
+  desktop_width: "125px"
 
 home: 
   limit_services: 6
