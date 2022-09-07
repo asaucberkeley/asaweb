@@ -1,6 +1,5 @@
 ---
 title: "Sama Zazai | سما ځاځي"
-pronouns: "she/her/hers"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sama.jpg"
 jobtitle: "President"
