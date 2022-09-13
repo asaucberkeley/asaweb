@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Social Events",
+    "description": "ASA's promises are upheld with the various social events hosted each academic year. We also partner with other UC Berkeley Cultural clubs for events.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Community Projects",
+    "description": "Check out ASA's promise for the betterment of Bay Area society and Afghan-Americans.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Affinity Spaces",
+    "description": "We stay up to date on events ongoing in Afghanistan and offer affinity spaces for those impacted here at the UC Berkeley campus.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
