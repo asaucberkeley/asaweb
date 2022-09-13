@@ -13,8 +13,6 @@ intro_image_hide_on_mobile: true
 # ASA 2022 - 23 Archives
 Were you unable to make it to meetings? No worries! We keep all our slides for the year organized below. You can always contact us in regards to the information in the slides!
 
-<br/>
-
-# Fall 2022
+## Fall 2022
 
 [Initial Meeting 08/31/2022](https://docs.google.com/presentation/d/e/2PACX-1vRFFS58f8Zdg3O5Zjt95H3BpSmc78naaBkVVjrVy4oARdR6zTrEMZyRS07r4izqRrYRip-aihIyOK_k/pub?start=false&loop=false&delayms=60000){: .btn}
