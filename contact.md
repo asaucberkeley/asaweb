@@ -17,4 +17,4 @@ Were you unable to make it to meetings? No worries! We keep all our slides for t
 
 [Initial Meeting 08/31/2022](https://docs.google.com/presentation/d/e/2PACX-1vRFFS58f8Zdg3O5Zjt95H3BpSmc78naaBkVVjrVy4oARdR6zTrEMZyRS07r4izqRrYRip-aihIyOK_k/pub?start=false&loop=false&delayms=60000){: .btn}
 <br/>
-<a href="http://example.com/" target="_blank">example</a>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRFFS58f8Zdg3O5Zjt95H3BpSmc78naaBkVVjrVy4oARdR6zTrEMZyRS07r4izqRrYRip-aihIyOK_k/pub?start=false&loop=false&delayms=60000" target="_blank">_Initial Meeting, August 31st, 2022</a>
