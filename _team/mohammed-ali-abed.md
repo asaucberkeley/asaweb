@@ -3,7 +3,7 @@ title: "Mohammed Ali Abed | محمدعلی عابد | he/him/او"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Director of Finance"
-linkedinurl: "https://www.linkedin.com/mohammedabed209"
+linkedinurl: "https://www.linkedin.com/in/mohammedabed209"
 promoted: true
 weight: 3
 ---
