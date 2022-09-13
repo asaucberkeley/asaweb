@@ -17,4 +17,5 @@ Were you unable to make it to meetings? No worries! We keep all our slides for t
 
 ## Fall 2022
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vRFFS58f8Zdg3O5Zjt95H3BpSmc78naaBkVVjrVy4oARdR6zTrEMZyRS07r4izqRrYRip-aihIyOK_k/pub?start=false&loop=false&delayms=60000" target="_blank">_Initial Meeting, August 31st, 2022_</a>
+<br/>
 <a href="https://www.google.com/" target="_blank">_Chai & Chill, September 7th, 2022_</a>
