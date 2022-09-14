@@ -12,7 +12,7 @@ Salaam -o- Durood everyone! I am MohammedAli, a senior studying Applied Mathemat
 
 <br/>
 
-درود فراوان بر همه! من محمدعلی هستم و این سال آخرین سالِ من است در برکلی. من سه گرایش می‌خوانم: ریاضیات کاربردی، اکونامیک، و علوم پایه کامپیوتری. هنگام از دانشگاه فارغ آموزش می‌ کنم، امیدوارم «کوانت» خواهم شوم. من خیلی خرم که این سال به همه افغان ها در برکلی خدمت می‌کنم. هر زمان یک پرسش دارید، برام یک پیغام بفرست! فعلاً بدرود دوستانم!
+درود فراوان بر همه! من محمدعلی هستم و این سال آخرین سالِ من است در برکلی. من سه گرایش می‌خوانم: ریاضیات کاربردی، اکونامیک، و علوم پایه کامپیوتری. هنگام از دانشگاه فارغ آموزش می‌ کنم، امیدوارم «کوانت» شوم. من خیلی خرسندم که این سال به همه افغان ها در برکلی خدمت می‌کنم. هر زمان یک پرسش دارید، برام یک پیغام بفرست! فعلاً بدرود دوستانم!
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/mohammedabed/tutoring?primary_color=e8390f" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
