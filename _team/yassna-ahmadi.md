@@ -8,4 +8,4 @@ promoted: true
 weight: 6
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Salaam! My name is Yassna Ahmadi. I'm a Senior studying Political Science with a concentration in International Relations. After graduating from Cal, I plan to attend law school to pursue a career in immigration and human rights law and policy. I truly enjoyed participating in the ASA's activities last year, especially the annual cultural banquet, where we showcased Afghan culture through dance, music, fashion, and other various forms of art. Therefore, I applied to the ASA board because I desired to have a role in advocating for our community, either by assisting Afghan students at Cal or reaching out to the greater Afghan diaspora in the Bay Area. In my spare time, I love watching international films and TV series and picking up on words in different languages. If I had to choose my favorite Afghan dish, I would pick sabzi chalow in a heartbeat.
