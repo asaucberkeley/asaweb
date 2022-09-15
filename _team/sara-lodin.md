@@ -8,4 +8,4 @@ promoted: true
 weight: 9
 ---
 
-BIO
+Salam friends! I am Sara(she/her) a sophomore studying MCB and minoring in Arabic. My favorite Afghan dish is Borani Bademjan.
