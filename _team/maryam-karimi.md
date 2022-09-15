@@ -1,7 +1,7 @@
 ---
 title: "Maryam Karimi | مریم کریمی | she/her"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/maryam.jpg"
 jobtitle: "Outreach & External Officer"
 promoted: true
 weight: 4
