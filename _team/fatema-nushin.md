@@ -1,7 +1,7 @@
 ---
 title: "Fatema Nushin | فاطمه نوشین | she/her"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
+image: "images/team/white-fatema.png"
 jobtitle: "Director of Communications"
 linkedinurl: "https://www.linkedin.com/in/fatema-nushin-22727a245"
 promoted: true
