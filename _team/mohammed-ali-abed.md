@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Ali Abed | محمدعلی عابد | he/him"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/1812A83B-E4D5-4852-A3A9-B1691F3CD19C.heic"
+image: "images/team/cristian-newman-94319-unsplash.jpg"
 jobtitle: "Director of Finance & Logistics"
 linkedinurl: "https://www.linkedin.com/in/mohammedabed209"
 promoted: true
