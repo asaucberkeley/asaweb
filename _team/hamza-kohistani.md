@@ -7,4 +7,4 @@ promoted: true
 weight: 10
 ---
 
-BIO
+Salam everyone, my name is Hamza and I am a fourth year studying Public Health. My favorite Afghan dish is Mantu!
