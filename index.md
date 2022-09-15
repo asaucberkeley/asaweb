@@ -19,7 +19,7 @@ Welcome to UC Berkeley's Afghan Student Association, a place to learn about the 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://docs.google.com/forms/d/e/1FAIpQLSdwn0L7Lub_qKmFG3dIjNLoZUlYqVvJS6GxaFyOBSoMsRuoQQ/viewform', text: 'Register Here today!', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://docs.google.com/forms/d/e/1FAIpQLSdwn0L7Lub_qKmFG3dIjNLoZUlYqVvJS6GxaFyOBSoMsRuoQQ/viewform', text: 'Fill out our interest form here!', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
 
 <!-- Calendly link widget begin -->
