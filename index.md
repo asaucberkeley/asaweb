@@ -19,7 +19,7 @@ Welcome to UC Berkeley's Afghan Student Association, a place to learn about the 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/logo/asanamehasil1.png', text: 'ASA offical statement against Anti-Shiite Behavior', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/logo/asanamehasil1.png', text: 'ASA offical statement against Anti-Shiite Behavior', color: '#E5261F', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
 
 <!-- Calendly link widget begin -->
