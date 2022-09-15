@@ -14,3 +14,10 @@ Welcome to UC Berkeley's Afghan Student Association, a place to learn about the 
 با درود! به انجمن دانشجویان افغان برکلی خوش آمدید، جایی برای آشنایی با فرهنگ، سنت ها و آداب و رسوم مردم افغانستان
 <br /><br />
 سلامونه! د برکلي افغان محصلینو ټولنې ته ښه راغلاست، د افغانانو د کلتور، دودونو  په اړه د زده کړې ځای
+
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/mohammedabed/tutoring', text: 'Register Here today!', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
