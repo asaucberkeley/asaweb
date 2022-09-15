@@ -11,7 +11,7 @@ intro_image_hide_on_mobile: true
 <br/>
 
 # **ASA 2022 - 23 Archives**
-Were you unable to make it to meetings? No worries! We keep all our slides for the year organized below. You can always contact us in regards to the information in the slides!
+> Were you unable to make it to meetings? No worries! We keep all our slides for the year organized below. You can always contact us in regards to the information in the slides!
 
 ---
 
