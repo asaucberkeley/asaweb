@@ -19,3 +19,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Link to resources"
+    url: "linktr.ee/UCBASA"
+    weight: 3
