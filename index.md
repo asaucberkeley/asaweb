@@ -25,5 +25,5 @@ Welcome to UC Berkeley's Afghan Student Association, a place to learn about the 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://docs.google.com/forms/d/e/1FAIpQLSdwn0L7Lub_qKmFG3dIjNLoZUlYqVvJS6GxaFyOBSoMsRuoQQ/viewform'});return false;">Random</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://docs.google.com/forms/d/e/1FAIpQLSdwn0L7Lub_qKmFG3dIjNLoZUlYqVvJS6GxaFyOBSoMsRuoQQ/viewform'});return false;">Fill out our interest form here!</a>
 <!-- Calendly link widget end -->
