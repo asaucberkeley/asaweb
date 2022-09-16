@@ -8,6 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello everyone! My name is Sama and I go by the she series. I’m a junior majoring in Nutritional Sciences with a focus in Physiology and Metabolism and I’m on the pre-med track. My favorite Afghan dish would definitely have to be laandi-palow. I joined ASA to make other Afghan students feel comfortable on campus, by providing a safe and fun space where we can celebrate our culture. Hit me up if you need any advice about leadership or advocacy opportunities!
