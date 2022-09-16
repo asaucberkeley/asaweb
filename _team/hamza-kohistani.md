@@ -3,6 +3,7 @@ title: "Hamza Kohistani | حمزه کوهستاني | he/him"
 date: 2018-12-20T13:44:55+10:00
 image: "images/team/hamza.jpg"
 jobtitle: "Academic Coordinator"
+website: "https://www.google.com/"
 promoted: true
 weight: 10
 ---
