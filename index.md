@@ -16,14 +16,14 @@ Welcome to UC Berkeley's Afghan Student Association, a place to learn about the 
 سلامونه! د برکلي افغان محصلینو ټولنې ته ښه راغلاست، د افغانانو د کلتور، دودونو  په اړه د زده کړې ځای
 
 
-<!-- Calendly badge widget begin -->
+<!-- Anti Shiite Stement button -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/antiahiastatement.pdf', text: 'ASA offical statement against Anti-Shiite Behavior', color: '#E5261F', textColor: '#ffffff', branding: undefined }); }</script>
-<!-- Calendly badge widget end -->
+<!-- end -->
 
-<!-- Calendly link widget begin -->
+<!-- Support of Iran button -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://docs.google.com/forms/d/e/1FAIpQLSdwn0L7Lub_qKmFG3dIjNLoZUlYqVvJS6GxaFyOBSoMsRuoQQ/viewform'});return false;">Fill out our interest form here!</a>
-<!-- Calendly link widget end -->
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/iranstatement.pdf', text: 'ASA offical statement against Anti-Shiite Behavior', color: '#E5261F', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- end -->
