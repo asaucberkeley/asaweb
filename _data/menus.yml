@@ -12,7 +12,7 @@ main:
     url: "/contact/"
     weight: 6
   - name: "Afghanistan's Ethnicities"
-    url: "/ethnicities.md/"
+    url: "/ethnicities/"
     weight: 4
 
 footer:
