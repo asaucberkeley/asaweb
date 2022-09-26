@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # ASA's Ethnicities & Cultures
 
-As a team, UC Berkeley's Afghan Student Association has conducted various projects throughout the last decade. Every year, our board establishes a set of themes and our projects carried throughout the year focus solely on what we've promised. This year, President Sama and Vice President Sofia revealed our projects will center Mental Health amongst Afghans and Afghan Women's rights. We will continue to support all ideas and projects, regardless of our set themes for the 2022 - 23 academic year. To learn more about our projects and work, click on each title below to find out more information.
+Afghanistan is one the most diverse countries in the Eurasian continent. Sitting in the heart of Asia, Afghans proudly boast their ethnicities and diversity that make us Afghans who we are. As the semester passes, we will continue to release information regarding Afghanistan & our ethncities!
