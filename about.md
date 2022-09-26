@@ -9,15 +9,11 @@ Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Afghans in the San Francisco Bay Area, 2021](/images/social/afghansprot.jpg)
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
-
-1. tst
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+The Afghan Student Association (ASA) was founded by undergraduate students at the University of California, Berkeley in the fall of 2000 with the goal of assisting students of Afghan descent and expanding its mission to other regions of the United States. We are a cultural organization committed to promoting and maintaining Afghan culture both on campus and in the local neighborhood. We are committed to educating the public about Afghanistan, its people, and its culture through events like banquets, table-setting, fundraising activities, open discussions about Afghanistan, and much more.
 
 ## Relevance
 
