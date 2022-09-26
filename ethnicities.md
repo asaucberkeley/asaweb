@@ -1,6 +1,6 @@
 ---
 title: Afghanistan's Ethnicities
-layout: services
+layout: Ethnicities
 description: Ethnicities
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
