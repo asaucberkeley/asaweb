@@ -10,10 +10,10 @@ main:
     weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
   - name: "Afghanistan's Ethnicities"
     url: "/ethnicities/"
-    weight: 6
+    weight: 5
 
 footer:
   - name: "Home"
