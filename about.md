@@ -10,31 +10,6 @@ bodyClass: page-about
 ## Who is ASA?
 The Afghan Student Association (ASA) was founded by undergraduate students at the University of California, Berkeley in the fall of 2000 with the goal of assisting students of Afghan descent and expanding its mission to other regions of the United States. We are a cultural organization committed to promoting and maintaining Afghan culture both on campus and in the local neighborhood. We are committed to educating the public about Afghanistan, its people, and its culture through events like banquets, table-setting, fundraising activities, open discussions about Afghanistan, and much more.
 
-```mermaid
-graph LR
-
-A[Afghan Student Association]
-B[Afghans at Berkeley]
-A --> C((Social Events))
-A --> D((Social Awareness))
-A --> E((Equity for Afghans))
-C --> B
-D --> B
-E --> B
-```
-
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-> ![ASA Board Members 2022](/images/social/board.png)
 
 
 ## Organization Mission
