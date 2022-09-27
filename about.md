@@ -5,6 +5,11 @@ description: About
 bodyClass: page-about
 ---
 
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 
 ![Afghans in the San Francisco Bay Area, 2021](/images/social/afghansprot.jpg)
 
