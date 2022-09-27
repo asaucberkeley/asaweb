@@ -26,7 +26,7 @@ Our goals as an established organization here at UC Berkeley is to create a welc
 
 We create a welcoming environment for all the students and alumni of UC Berkeley to interact and support one another.
 
-# Statements by ASA Team, **Fall 2022** | Spring 2023
+## Statements by ASA Team, **Fall 2022** | Spring 2023
 We understand that communal support leads long ways. While we are not an organization centered to politics, we often will release official statements in support and comradery for people. We keep a track of all yearly statements to give a sense of fraternity amongst Afghans and our neighbors.
 > Statement in Support of Iranians & Mahsa Zhina Amini <br/>
 > Statement condemning Anti-Shiite behavior <br/>
