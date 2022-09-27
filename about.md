@@ -5,7 +5,9 @@ description: About
 bodyClass: page-about
 ---
 
-![Afghans in the San Francisco Bay Area, 2021](/images/social/afghansprot.jpg)
+<p align="center">
+  <img src="/images/social/afghansprot.jpg" />
+</p>
 
 ## Who is ASA?
 The Afghan Student Association (ASA) was founded by undergraduate students at the University of California, Berkeley in the fall of 2000 with the goal of assisting students of Afghan descent and expanding its mission to other regions of the United States. We are a cultural organization committed to promoting and maintaining Afghan culture both on campus and in the local neighborhood. We are committed to educating the public about Afghanistan, its people, and its culture through events like banquets, table-setting, fundraising activities, open discussions about Afghanistan, and much more.
