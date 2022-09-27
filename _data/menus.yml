@@ -11,7 +11,7 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 6
-  - name: "The Afghan People"
+  - name: "Who are the Afghans?"
     url: "/ethnicities/"
     weight: 4
 
