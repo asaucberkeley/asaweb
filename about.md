@@ -23,6 +23,17 @@ D --> B
 E --> B
 ```
 
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
 > ![ASA Board Members 2022](/images/social/board.png)
 
 
