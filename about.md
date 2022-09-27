@@ -28,8 +28,9 @@ We create a welcoming environment for all the students and alumni of UC Berkeley
 
 # Statements by ASA Team, **Fall 2022** | Spring 2023
 We understnad that communal support leads long ways. While we are not an organization centered to politics, we often will release official statements in support and comradery for people. We keep a track of all yearly statements to give a sense of fraternity amongst Afghans and our neighbors.
-> Statement in Support of Iranians & Mahsa Zhina Amini
-> Statement condemning Anti-Shiite behavior
+> Statement in Support of Iranians & Mahsa Zhina Amini <br/>
+> Statement condemning Anti-Shiite behavior <br/>
+
 As the year passes, we will update our statements here. 
 
 *Cal ASA would love to hear more from you. Please use the email below to get in touch with us. We also welcome sponsorships for our group, which helps us put on fundraising activities for Afghanistan. Please send us an email at calasapresident[at]gmail[dot]com if you are interested in supporting Cal ASA.*
