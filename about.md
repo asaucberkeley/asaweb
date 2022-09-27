@@ -23,3 +23,10 @@ bodyClass: page-about
 > Our goals as an established organization here at UC Berkeley is to create a welcoming environment for Afghan Americans and serving those in the greater Bay Area region. We look to promote the culture, heritage, and betterment of Afghan society within our community as well as creating a space inclusive of all. We, the Afghan Student Association of UC Berkeley continue to expand our involvement and efforts to ensure that every Afghan is equally and appropriately advocated for here in the Bay Area.
 
 
+
+We create a welcoming environment for all the students and alumni of UC Berkeley to interact and support one another.
+
+
+
+*Cal ASA would love to hear more from you. Please use the email below to get in touch with us. We also welcome sponsorships for our group, which helps us put on fundraising activities for Afghanistan. Please send us an email at calasapresident[at]gmail[dot]com if you are interested in supporting Cal ASA.*
+
