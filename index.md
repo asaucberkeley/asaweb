@@ -11,9 +11,9 @@ show_call_box: true
 # Afghan Student Association
 Welcome to UC Berkeley's Afghan Student Association, a place to learn about the culture, heritage, and traditions of Afghan peoples.
 <br /><br />
-با درود! به انجمن دانشجویان افغان برکلی خوش آمدید، جایی برای آشنایی با فرهنگ، سنت ها و آداب و رسوم مردم افغانستان
+با درود! به انجمن دانشجویان افغان برکلی خوش آمدید؛ جایی برای آشنایی با فرهنگ، سنت ها و آداب و رسوم مردم افغانستان
 <br /><br />
-سلامونه! د برکلي افغان محصلینو ټولنې ته ښه راغلاست، د افغانانو د کلتور، دودونو  په اړه د زده کړې ځای
+سلامونه! د يوسي برکلې د افغان سټوډنټ ټولنې ته ښه راغلاست، د افغانانو د کلتور، ميراث او دودونو په اړه د زده کړې ځاې
 
 
 <!-- Anti Shiite Stement button -->
