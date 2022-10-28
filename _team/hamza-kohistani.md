@@ -5,7 +5,7 @@ image: "images/team/hamza.jpg"
 jobtitle: "PR & Recruitment Lead"
 website: "https://www.google.com/"
 promoted: true
-weight: 10
+weight: 12
 ---
 
 My name is Hamza Kohistani and am currently a fourth year public health major. I have a habit of changing my favorite food but at the moment I would have to say Mantu is at the top. Alongside majoring in public health I am also a pre med student. I’ve had long aspirations of becoming a doctor from a young age and hope I am able to live up to those expectations of my younger self.
