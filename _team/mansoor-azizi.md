@@ -3,7 +3,7 @@ title: "Mansoor Azizi | منصور عزیزی | he/him"
 date: 2018-12-20T13:44:55+10:00
 image: "images/team/mansoor.jpg"
 jobtitle: "Academic Coordinator"
-linked: "https://www.linkedin.com/in/mansoor-azizi-48b7a7214"
+linkedinurl: "https://www.linkedin.com/in/mansoor-azizi-48b7a7214"
 promoted: true
 weight: 9
 ---
