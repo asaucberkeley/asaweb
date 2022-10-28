@@ -5,7 +5,7 @@ image: "images/team/hamza.jpg"
 jobtitle: "Academic Coordinator"
 linked: "https://www.linkedin.com/in/mansoor-azizi-48b7a7214"
 promoted: true
-weight: 12
+weight: 9
 ---
 Hi everyone, my name is Mansoor Azizi. I am a senior transfer student majoring in Molecular & Cell Biology with an emphasis on Cell & Developmental Biology.
 </br>
