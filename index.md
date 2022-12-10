@@ -9,79 +9,12 @@ show_call_box: true
 ---
 
 # Afghan Student Association
-<h1>
-  <a href="" class="typewrite" data-period="2000" data-type='[ "با درود", "سلامونه", "welcome", "خوش آمدید" ]'>
-    <span class="wrap"></span>
-  </a>
-</h1>
-<style>
-    body {
-  background-color:#fff;
-  text-align: center;
-  color:black;
-  padding-top:10em;
-}
 
-* { color:black; text-decoration: none;}
-</style>
-<script>
-    var TxtType = function(el, toRotate, period) {
-        this.toRotate = toRotate;
-        this.el = el;
-        this.loopNum = 0;
-        this.period = parseInt(period, 10) || 2000;
-        this.txt = '';
-        this.tick();
-        this.isDeleting = false;
-    };
+Welcome to UC Berkeley’s Afghan Student Association, a place to learn about the culture, heritage, and traditions of Afghan peoples.
 
-    TxtType.prototype.tick = function() {
-        var i = this.loopNum % this.toRotate.length;
-        var fullTxt = this.toRotate[i];
-
-        if (this.isDeleting) {
-        this.txt = fullTxt.substring(0, this.txt.length - 1);
-        } else {
-        this.txt = fullTxt.substring(0, this.txt.length + 1);
-        }
-
-        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
-
-        var that = this;
-        var delta = 200 - Math.random() * 100;
-
-        if (this.isDeleting) { delta /= 2; }
-
-        if (!this.isDeleting && this.txt === fullTxt) {
-        delta = this.period;
-        this.isDeleting = true;
-        } else if (this.isDeleting && this.txt === '') {
-        this.isDeleting = false;
-        this.loopNum++;
-        delta = 500;
-        }
-
-        setTimeout(function() {
-        that.tick();
-        }, delta);
-    };
-
-    window.onload = function() {
-        var elements = document.getElementsByClassName('typewrite');
-        for (var i=0; i<elements.length; i++) {
-            var toRotate = elements[i].getAttribute('data-type');
-            var period = elements[i].getAttribute('data-period');
-            if (toRotate) {
-              new TxtType(elements[i], JSON.parse(toRotate), period);
-            }
-        }
-        // INJECT CSS
-        var css = document.createElement("style");
-        css.type = "text/css";
-        css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
-        document.body.appendChild(css);
-    };
-</script>
+ با درود! به انجمن دانشجویان افغان برکلی خوش آمدید؛ جایی برای آشنایی با فرهنگ، سنت ها و آداب و رسوم مردم افغانستان 
+ 
+  سلامونه! د يوسي برکلې د افغان سټوډنټ ټولنې ته ښه راغلاست، د افغانانو د کلتور، ميراث او دودونو په اړه د زده کړې ځاې
 
 <!-- Anti Shiite Stement button -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
