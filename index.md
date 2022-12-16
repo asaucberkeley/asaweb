@@ -10,6 +10,8 @@ show_call_box: true
 
 # Afghan Student Association
 
+
+
 Welcome to UC Berkeley’s Afghan Student Association, a place to learn about the culture, heritage, and traditions of Afghan peoples.
 
  با درود! به انجمن دانشجویان افغان برکلی خوش آمدید؛ جایی برای آشنایی با فرهنگ، سنت ها و آداب و رسوم مردم افغانستان 
@@ -19,7 +21,7 @@ Welcome to UC Berkeley’s Afghan Student Association, a place to learn about th
 <!-- Support of Iran button -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/iranstatement.pdf', text: 'ASA offical statement supporting Iranians', color: '#E5261F', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/iranstatement.pdf', text: 'ASA offical statement supporting Iranians', color: '#E5261F', textColor: '#00000', branding: undefined }); }</script>
 <!-- end -->
 
 <!-- -->
