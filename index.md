@@ -22,3 +22,29 @@ Welcome to UC Berkeley’s Afghan Student Association, a place to learn about th
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'images/iranstatement.pdf', text: 'ASA offical statement supporting Iranians', color: '#E5261F', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- end -->
 
+<!-- -->
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+
+/* Style the body */
+
+body { font-family: 'Noto Nastaliq Urdu Draft', serif; }
+
+/* Header/Logo Title */
+.header {
+  padding: 0%;
+  text-align: center;
+  background: #E5261F;
+  color: black;
+  font-size: 20px;
+}
+
+/* Page Content */
+.content {padding:10px;}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <p>زن زندگی آزادی  |  نان کار آزادی</p>
+</div>
