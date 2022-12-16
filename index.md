@@ -24,3 +24,34 @@ Welcome to UC Berkeley’s Afghan Student Association, a place to learn about th
 <!-- end -->
 
 <!-- -->
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+
+.alert {
+  padding: 20px;
+  background-color: #E5261F;
+  color: black;
+}
+
+.closebtn {
+  margin-left: 1px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 30px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+body { font-family: 'Noto Nastaliq Urdu Draft', serif; }
+</style>
+
+
+<div class="alert"><center>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+    زن زندگی آزادی | نان کار آزادی
+</center></div>
