@@ -23,10 +23,9 @@ Welcome to UC Berkeley’s Afghan Student Association, a place to learn about th
 <!-- end -->
 
 <!-- -->
-<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-    <!--Stylesheets-->
-    <style media="screen">
-      *,
+<style>
+    @import url(//fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+    	*,
 *:before,
 *:after{
     padding: 0;
@@ -34,7 +33,9 @@ Welcome to UC Berkeley’s Afghan Student Association, a place to learn about th
     box-sizing: border-box;
 }
 body{
-    background-color: #0855ae;
+	font-family: 'Noto Nastaliq Urdu Draft', serif;
+    background-color: #E5261F;
+    opacity: 1;
 }
 .popup{
     background-color: #ffffff;
@@ -45,7 +46,7 @@ body{
     left: 50%;
     top: 50%;
     border-radius: 8px;
-    font-family: "Poppins",sans-serif;
+    font-family: 'Noto Nastaliq Urdu Draft', serif;
     display: none; 
     text-align: center;
 }
@@ -55,16 +56,16 @@ body{
     background-color: transparent;
     font-size: 30px;
     color: #ffffff;
-    background: #03549a;
-    border-radius: 100%;
-    width: 40px;
-    height: 40px;
+		background: #E5261F;
+		border-radius: 100%;
+		width: 40px;
+		height: 40px;
     border: none;
     outline: none;
     cursor: pointer;
 }
 .popup h2{
-  margin-top: -20px;
+	margin-top: -20px;
 }
 .popup p{
     font-size: 14px;
@@ -78,22 +79,23 @@ a{
     position: relative;
     margin: 10px auto;
     text-align: center;
-    background-color: #0f72e5;
-    border-radius: 20px;
+    background-color: #E5261F;
+		border-radius: 20px;
     color: #ffffff;
     text-decoration: none;
     padding: 8px 0;
 }
     </style>
-</head>
-<body>
+
     <div class="popup">
         <button id="close">&times;</button>
         <h2>Automatic Pop-Up</h2>
+        <center>
         <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita distinctio fugiat alias iure qui, commodi minima magni ullam aliquam dignissimos?
+        زن زندگی آزادی | نان کار آزادی
         </p>
-        <a href="#">Let's Go</a>
+        </center>
+        <a href="#">Enter ASA's Site</a>
     </div>
     <!--Script-->
     <script type="text/javascript">
@@ -111,3 +113,4 @@ document.querySelector("#close").addEventListener("click", function(){
     document.querySelector(".popup").style.display = "none";
 });
     </script>
+
