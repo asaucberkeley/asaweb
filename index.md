@@ -7,7 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
-## زن زندگی آزادی
+
+<center><b><h2>زن زندگی آزادی | نان کار آزادی</h2></b></center>
 # Afghan Student Association
 
 
